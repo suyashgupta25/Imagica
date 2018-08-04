@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283252184357",
+    "firebase_url": "https://sparknetworks123.firebaseio.com",
+    "project_id": "sparknetworks123",
+    "storage_bucket": "sparknetworks123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283252184357:android:5e8444a82984be36",
+        "android_client_info": {
+          "package_name": "net.sparksnetwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283252184357-0hos6ijb7u0rn20to0mhimme5orm62ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPfgeSMToNn3-57w2OTa7arqQtleAI7bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
