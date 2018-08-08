@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Imagica</string>
+
+    <!--Home Fragment -->
+    <string name="lbl_toolbar_home">Imagica</string>
+
+    <!-- cropper util-->
+    <string name="crop_image_activity_title"></string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+
+    <!-- cropper util-->
+    <string name="glide_config1">glide_config1</string>
+
+    <!-- errors-->
+    <string name="err_empty_gallery">No images uploaded by you. Please try using the camera icon above to upload</string>
 </resources>
